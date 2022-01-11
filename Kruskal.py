@@ -27,7 +27,6 @@ class Graph:
     
     
 
-
 class Edge_Instance:
     def __init__(self, src:int, dest:int, weight:int):
         self.src = src
